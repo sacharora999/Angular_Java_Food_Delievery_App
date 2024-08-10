@@ -1,3 +1,6 @@
+Developer : 
+Sachin Arora
+
 Responsive food delivery app to display food items, filter based on user preferences, and manage orders and user details.
 
 
