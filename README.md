@@ -2,6 +2,7 @@ Responsive food delivery app to display food items, filter based on user prefere
 
 
 Teck Stack:
+
 • Angular
 
 • Java
